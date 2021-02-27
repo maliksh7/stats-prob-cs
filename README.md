@@ -1,0 +1,2 @@
+# stats-prob-cs
+The purpose of this course is to present probability and statistics from a Computer Science perspective. Most prob and stats courses focus too much on math and on concepts useful in social sciences. We will focus on the aspects most relevant to computer science (and as such, will skip some stuff that isn't application oriented). This foundations presented in this course will prepare you to take any machine learning and deep learning course and tackle it very easily.   See the course material used in this course here: https://github.com/recluze/stats-prob-cs
